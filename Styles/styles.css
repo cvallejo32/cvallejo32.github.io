@@ -39,7 +39,15 @@ body {
 }
 
 .text-white{
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
     height: 500px;
+
 }
 
 .container-cards-three{
